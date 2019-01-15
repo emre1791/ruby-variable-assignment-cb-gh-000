@@ -1,2 +1,1 @@
-phrase = greeting
-greeting = "Hello World"
+local greeting = "Hello World"
